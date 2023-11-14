@@ -1,0 +1,50 @@
+{
+  "todolists":[
+  {
+    "name": "Hit the gym",
+    "status":"succeed"
+  },
+  {
+    "name": "Pay bills",
+    "status": "started"
+  },
+  {
+    "name": "Meeting",
+    "status": "started"
+  },
+  {
+    "name": "Buy eggs",
+    "status": "inprogress"
+  },
+  {
+    "name": "Read a book",
+    "status": "started"
+  },
+    {
+    "name": "Organize clothes",
+    "status":"succeed"
+  },
+    {
+    "name": "Office work",
+    "status": "inprogress"
+  },
+    {
+    "name": "Online courses",
+    "status": "started"
+  },
+  {
+    "name": "Pickup groceries",
+    "status": "inprogress"
+  },
+  {
+    "name": "Placing order",
+    "status":"succeed"
+  } 
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    }
+  ]
+}
