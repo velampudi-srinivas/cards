@@ -1,50 +1,59 @@
 {
-  "todolists":[
-  {
-    "name": "Hit the gym",
-    "status":"succeed"
-  },
-  {
-    "name": "Pay bills",
-    "status": "started"
-  },
-  {
-    "name": "Meeting",
-    "status": "started"
-  },
-  {
-    "name": "Buy eggs",
-    "status": "inprogress"
-  },
-  {
-    "name": "Read a book",
-    "status": "started"
-  },
-    {
-    "name": "Organize clothes",
-    "status":"succeed"
-  },
-    {
-    "name": "Office work",
-    "status": "inprogress"
-  },
-    {
-    "name": "Online courses",
-    "status": "started"
-  },
-  {
-    "name": "Pickup groceries",
-    "status": "inprogress"
-  },
-  {
-    "name": "Placing order",
-    "status":"succeed"
-  } 
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    }
-  ]
+  "cards":
+ [
+      {
+        "id": 1,
+        "thumbnailUrl": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_18.jpg",
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "author": "Dr. Angela Yu",
+        "Rating": "4.7 out of 5 (335,960)",
+        "price": "₹3,199",
+        "badge":"Bestseller"  
+      },
+      {
+        "id": 2,
+        "thumbnailUrl": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+        "author": "Dr. Angela Yu",
+        "Rating": "4.7 out of 5 (248,376)",
+        "price": "₹3,199",
+        "badge":"Bestseller"
+      },
+      {
+        "id": 3,
+        "thumbnailUrl": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "title": "React - The Complete Guide 2023 (incl. React Router & Redux)",
+        "author": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "Rating": "4.6 out of 5 (198,881)",
+        "price": "₹3,699",
+        "badge":"Bestseller"
+      },
+      {
+        "id": 4,
+        "thumbnailUrl": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+        "author": "Jose Portilla",
+        "Rating": "4.6 out of 5 (485,113)",
+        "price": "₹3,199",
+        "badge":"Bestseller"
+      },
+      {
+        "id": 5,
+        "thumbnailUrl": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
+        "author": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+        "Rating": "4.7 out of 5 (176,992)",
+        "price": "₹3,199",
+        "badge":"Bestseller"
+      },
+      {
+        "id": 6,
+        "thumbnailUrl": "https://img-c.udemycdn.com/course/240x135/3142166_a637_3.jpg",
+        "title": "The Complete JavaScript Course 2024: From Zero to Expert!",
+        "author": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+        "Rating": "4.7 out of 5 (335,960)",
+        "price": "₹3,199",
+        "badge":"Bestseller"
+      }
+]
 }
